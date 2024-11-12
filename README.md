@@ -75,10 +75,4 @@ Margem de Lucro: Análise detalhada da margem de lucro de cada produto.
 Produtos Mais Vendidos: Descubra quais produtos tiveram o maior volume de vendas.
 Receita Bruta e Líquida: Comparação das receitas de vendas de cada produto.
 Custo de Frete: Identifique os custos de frete médios por produto.
-Contribuindo
-Se você deseja contribuir para este projeto, siga os passos abaixo:
 
-Faça um fork do repositório.
-Crie uma branch para suas modificações.
-Faça as alterações e commit.
-Envie uma pull request.
