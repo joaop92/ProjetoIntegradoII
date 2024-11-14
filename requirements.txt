@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+python==3.12.4
+>>>>>>> 90b20d696e668ea01dc5b3df31b1d8bbbd44a876
 pandas
 matplotlib
 seaborn
