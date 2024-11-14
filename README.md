@@ -67,7 +67,7 @@ Execute o script com o Streamlit para iniciar a aplicação interativa:
 bash
 Copiar código
 streamlit run tem.py
-O Streamlit abrirá uma interface no seu navegador para visualização e interação com os dados.
+O Streamlit abrirá uma interface no seu navegador para visualização e interação com os dados. / aqui o link no powerbii https://app.powerbi.com/view?r=eyJrIjoiNWE2ZDNjMzktMjhiMy00MDRhLTkzN2YtY2FmOGFjYjhhZDJhIiwidCI6ImQ0OGZmOGJiLWZkOTMtNDcwOC04YjUzLWYzZmIxMDY0MjNlOCJ9
 
 Funcionalidades
 Análise de Preços de Venda: Visualize a distribuição dos preços de venda dos produtos.
